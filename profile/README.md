@@ -3,8 +3,8 @@
 [Exur](https://exur.ai) is an **institutional-grade AI financial assistant and precision risk engine** designed to empower retail and professional traders across Crypto, Gold, Forex, and Global Indices.
 
 [![Website](https://img.shields.io/badge/Website-exur.ai-blue?style=for-the-badge&logo=googlechrome)](https://exur.ai)
+[![F6S](https://img.shields.io/badge/F6S-Exur_AI-orange?style=for-the-badge&logo=f6s)](https://www.f6s.com/exur-ai)
 [![Platform Status](https://img.shields.io/badge/Status-Live_MVP-brightgreen?style=for-the-badge)](https://exur.ai)
-[![Target Markets](https://img.shields.io/badge/Markets-Crypto_%7C_Gold_%7C_Indices-orange?style=for-the-badge)](https://exur.ai)
 
 ---
 
@@ -23,7 +23,8 @@ We eliminate information asymmetry for everyday traders by unifying:
 ## 🌐 Explore Exur
 
 * 📊 **Try Exur AI for Free:** [https://exur.ai](https://exur.ai)
-* 💼 **Connect with Us on F6S:** [Exur F6S Page](https://www.f6s.com/exur-ai)
+* 🤝 **F6S Startup Profile:** [https://www.f6s.com/exur-ai](https://www.f6s.com/exur-ai)
+* 💼 **Connect with Us on LinkedIn:** [Exur Company Page](https://www.linkedin.com/company/exur-ai)
 
 ---
 
@@ -35,7 +36,7 @@ We eliminate information asymmetry for everyday traders by unifying:
 
 ---
 
-<p center>
+<p align="center">
   <i>Empowering every trader with institutional-grade risk models.</i><br>
   <b>© Exur AI — All Rights Reserved.</b>
 </p>
